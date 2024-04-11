@@ -1,3 +1,3 @@
 # Sowlution-Mobile-Frontend
 Front_end
-to run it ru npm start
+to run it run npm start
